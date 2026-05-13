@@ -1,0 +1,27 @@
+#  Quiz App — Tarefa Prof. Jeferson Soares
+> Programação para Internet I — Introdução ao React + Vite
+
+# Quiz App
+Aplicação de quiz interativo desenvolvida com React, TypeScript e Vite.
+
+# Tecnologias
+React 18 + TypeScript
+Vite
+Tailwind CSS v4
+React Router DOM v6
+
+# Como rodar
+bashnpm install
+npm run dev
+
+# Estrutura
+src/
+├── main.tsx
+├── App.tsx
+├── index.css
+└── pages/
+    ├── Home.tsx
+    ├── Quiz.tsx
+    ├── quizData.ts
+    ├── Result.tsx
+    └── AdminQuestions.tsx

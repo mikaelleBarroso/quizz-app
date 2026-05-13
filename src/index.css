@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Tema personalizado do professor Jeferson */
+@theme {
+  --color-quiz-purple: #7C3AED;
+  --color-quiz-yellow: #FACC15;
+  --color-quiz-dark: #1E1B4B;
+
+  --border-radius-quiz: 1.5rem;
+  --border-radius-t-quiz: 1.5rem 1.5rem 0 0;
+  --border-radius-b-quiz: 0 0 1.5rem 1.5rem;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
