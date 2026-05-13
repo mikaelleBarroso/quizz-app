@@ -11,17 +11,5 @@ Tailwind CSS v4
 React Router DOM v6
 
 # Como rodar
-bashnpm install
+npm install
 npm run dev
-
-# Estrutura
-src/
-├── main.tsx
-├── App.tsx
-├── index.css
-└── pages/
-    ├── Home.tsx
-    ├── Quiz.tsx
-    ├── quizData.ts
-    ├── Result.tsx
-    └── AdminQuestions.tsx
